@@ -1,0 +1,148 @@
+{
+  "image_width": 640,
+  "image_height": 640,
+  "Lines": [
+    {
+      "xStart": 616,
+      "yStart": 278,
+      "xEnd": 334,
+      "yEnd": 578,
+      "class_name": "Line",
+      "detection_id": "28372289"
+    },
+    {
+      "xStart": 51,
+      "yStart": 284,
+      "xEnd": 318,
+      "yEnd": 575,
+      "class_name": "Line",
+      "detection_id": "54024015"
+    },
+    {
+      "xStart": 471,
+      "yStart": 114,
+      "xEnd": 613,
+      "yEnd": 271,
+      "class_name": "Line",
+      "detection_id": "16454088"
+    },
+    {
+      "xStart": 469,
+      "yStart": 113,
+      "xEnd": 333,
+      "yEnd": 166,
+      "class_name": "Line",
+      "detection_id": "13869071"
+    },
+    {
+      "xStart": 327,
+      "yStart": 174,
+      "xEnd": 416,
+      "yEnd": 273,
+      "class_name": "Line",
+      "detection_id": "57712780"
+    },
+    {
+      "xStart": 310,
+      "yStart": 171,
+      "xEnd": 53,
+      "yEnd": 284,
+      "class_name": "Line",
+      "detection_id": "49652976"
+    },
+    {
+      "xStart": 420,
+      "yStart": 282,
+      "xEnd": 329,
+      "yEnd": 565,
+      "class_name": "Line",
+      "detection_id": "44223604"
+    },
+    {
+      "xStart": 176,
+      "yStart": 128,
+      "xEnd": 51,
+      "yEnd": 282,
+      "class_name": "Line",
+      "detection_id": "62468121"
+    },
+    {
+      "xStart": 421,
+      "yStart": 271,
+      "xEnd": 614,
+      "yEnd": 280,
+      "class_name": "Line",
+      "detection_id": "25342185"
+    },
+    {
+      "xStart": 186,
+      "yStart": 126,
+      "xEnd": 312,
+      "yEnd": 166,
+      "class_name": "Line",
+      "detection_id": "26753075"
+    },
+    {
+      "xStart": 321,
+      "yStart": 609,
+      "xEnd": 330,
+      "yEnd": 639,
+      "class_name": "Line",
+      "detection_id": "39451090"
+    },
+    {
+      "xStart": 412,
+      "yStart": 274,
+      "xEnd": 38,
+      "yEnd": 287,
+      "class_name": "Line",
+      "detection_id": "19515494"
+    }
+  ],
+  "Nodes": [
+    {
+      "x": 623,
+      "y": 282,
+      "class_name": "Node",
+      "detection_id": "7bbb15a3-e411-43be-bcc3-3dbd0c751f17"
+    },
+    {
+      "x": 57,
+      "y": 288,
+      "class_name": "Node",
+      "detection_id": "ddfa6448-ee05-45c6-a5c8-26298f91bf19"
+    },
+    {
+      "x": 428,
+      "y": 283,
+      "class_name": "Node",
+      "detection_id": "3cd1547c-995a-4e03-8442-2a35274df018"
+    },
+    {
+      "x": 187,
+      "y": 133,
+      "class_name": "Node",
+      "detection_id": "4d10e16c-0758-4930-9b1d-1be05ec0c621"
+    },
+    {
+      "x": 338,
+      "y": 610,
+      "class_name": "Node",
+      "detection_id": "0ccfd621-510e-4ebb-ac82-7c077f6439ab"
+    }
+  ],
+  "Pylons": [
+    {
+      "x": 635,
+      "y": 222,
+      "class_name": "Pylon",
+      "detection_id": "1a854b22-285b-405f-88ff-8476d8ba99b5"
+    },
+    {
+      "x": 331,
+      "y": 176,
+      "class_name": "Pylon",
+      "detection_id": "cff7f113-ee76-4089-b2e4-f28aed426f47"
+    }
+  ]
+}

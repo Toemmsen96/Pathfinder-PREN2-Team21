@@ -1,0 +1,16 @@
+[Unit]
+Description=Pfadfinder GPIO Button Monitor
+After=pfadfinder.service
+Wants=pfadfinder.service
+
+[Service]
+Type=simple
+User=root
+ExecStart=/home/pi/pfadfinder/gpio_button_monitor.sh
+Restart=always
+RestartSec=5
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,232 @@
+{
+  "detections": [
+    {
+      "bounding_box": {
+        "left": 390,
+        "top": 286,
+        "right": 592,
+        "bottom": 638
+      },
+      "confidence": 0.9687360525131226,
+      "class_name": "line",
+      "class_id": 2,
+      "detection_id": "40bc3d9e-072a-4e6d-b639-583cc9f87ebb"
+    },
+    {
+      "bounding_box": {
+        "left": 0,
+        "top": 301,
+        "right": 285,
+        "bottom": 564
+      },
+      "confidence": 0.9649789333343506,
+      "class_name": "line",
+      "class_id": 2,
+      "detection_id": "ddf448e6-6f7a-4d4e-8e27-d88d7a5fc7f6"
+    },
+    {
+      "bounding_box": {
+        "left": 0,
+        "top": 188,
+        "right": 138,
+        "bottom": 528
+      },
+      "confidence": 0.9625018835067749,
+      "class_name": "line",
+      "class_id": 2,
+      "detection_id": "6f9edc0a-7db1-4897-a306-118e6d2bab00"
+    },
+    {
+      "bounding_box": {
+        "left": 378,
+        "top": 137,
+        "right": 582,
+        "bottom": 273
+      },
+      "confidence": 0.9542002081871033,
+      "class_name": "line",
+      "class_id": 2,
+      "detection_id": "6b52f5da-8d8c-425f-933b-5755f97a9d8d"
+    },
+    {
+      "bounding_box": {
+        "left": 312,
+        "top": 138,
+        "right": 375,
+        "bottom": 267
+      },
+      "confidence": 0.9466060400009155,
+      "class_name": "line",
+      "class_id": 2,
+      "detection_id": "7d90d23f-c6f1-44bd-b62a-9107346c0943"
+    },
+    {
+      "bounding_box": {
+        "left": 0,
+        "top": 581,
+        "right": 53,
+        "bottom": 639
+      },
+      "confidence": 0.9320579767227173,
+      "class_name": "line",
+      "class_id": 2,
+      "detection_id": "9d7b04d0-6813-4452-b97a-8f3066d7ad48"
+    },
+    {
+      "bounding_box": {
+        "left": 225,
+        "top": 238,
+        "right": 284,
+        "bottom": 276
+      },
+      "confidence": 0.9257515668869019,
+      "class_name": "line",
+      "class_id": 2,
+      "detection_id": "293d53f1-66f3-4735-a3f7-2abbf99c82ca"
+    },
+    {
+      "bounding_box": {
+        "left": 145,
+        "top": 135,
+        "right": 375,
+        "bottom": 186
+      },
+      "confidence": 0.9255480170249939,
+      "class_name": "line",
+      "class_id": 2,
+      "detection_id": "25df87d5-25d9-4143-bf5c-1c98a5be6dc3"
+    },
+    {
+      "bounding_box": {
+        "left": 142,
+        "top": 185,
+        "right": 211,
+        "bottom": 230
+      },
+      "confidence": 0.9242503643035889,
+      "class_name": "line",
+      "class_id": 2,
+      "detection_id": "bc9ede61-c68c-408b-8818-742705db5b10"
+    },
+    {
+      "bounding_box": {
+        "left": 284,
+        "top": 207,
+        "right": 314,
+        "bottom": 307
+      },
+      "confidence": 0.9176714420318604,
+      "class_name": "traffic_cone",
+      "class_id": 4,
+      "detection_id": "ff416eb0-9ee9-486d-bf08-3c4b6f75ca4d"
+    },
+    {
+      "bounding_box": {
+        "left": 214,
+        "top": 211,
+        "right": 232,
+        "bottom": 246
+      },
+      "confidence": 0.8982206583023071,
+      "class_name": "barrier_white",
+      "class_id": 1,
+      "detection_id": "54f11828-7de8-495b-bac6-76b58bdecaca"
+    },
+    {
+      "bounding_box": {
+        "left": 582,
+        "top": 271,
+        "right": 598,
+        "bottom": 288
+      },
+      "confidence": 0.8933923244476318,
+      "class_name": "node",
+      "class_id": 3,
+      "detection_id": "cc828234-d085-4db4-8829-7fbea03d36db"
+    },
+    {
+      "bounding_box": {
+        "left": 134,
+        "top": 179,
+        "right": 147,
+        "bottom": 189
+      },
+      "confidence": 0.8853270411491394,
+      "class_name": "node",
+      "class_id": 3,
+      "detection_id": "52777b17-6fb5-471c-bf44-f02517cef974"
+    },
+    {
+      "bounding_box": {
+        "left": 452,
+        "top": 250,
+        "right": 466,
+        "bottom": 295
+      },
+      "confidence": 0.8672654628753662,
+      "class_name": "barrier_red",
+      "class_id": 0,
+      "detection_id": "419563ce-cd2b-4060-8f75-977f9828da4f"
+    },
+    {
+      "bounding_box": {
+        "left": 317,
+        "top": 279,
+        "right": 452,
+        "bottom": 289
+      },
+      "confidence": 0.7945811748504639,
+      "class_name": "line",
+      "class_id": 2,
+      "detection_id": "2ab1fb45-e23f-4186-a446-822d8788a330"
+    },
+    {
+      "bounding_box": {
+        "left": 595,
+        "top": 283,
+        "right": 627,
+        "bottom": 632
+      },
+      "confidence": 0.7944753170013428,
+      "class_name": "line",
+      "class_id": 2,
+      "detection_id": "c0412d9f-5b71-4101-9481-3a284744d690"
+    },
+    {
+      "bounding_box": {
+        "left": 466,
+        "top": 276,
+        "right": 582,
+        "bottom": 285
+      },
+      "confidence": 0.791226863861084,
+      "class_name": "line",
+      "class_id": 2,
+      "detection_id": "7de1cee7-4449-4dc2-87e5-cfb9db23752d"
+    },
+    {
+      "bounding_box": {
+        "left": 300,
+        "top": 304,
+        "right": 313,
+        "bottom": 638
+      },
+      "confidence": 0.7759258151054382,
+      "class_name": "line",
+      "class_id": 2,
+      "detection_id": "0b1c1efb-df35-4147-a604-2a5947e89174"
+    },
+    {
+      "bounding_box": {
+        "left": 372,
+        "top": 132,
+        "right": 382,
+        "bottom": 139
+      },
+      "confidence": 0.6899900436401367,
+      "class_name": "node",
+      "class_id": 3,
+      "detection_id": "40bd2bdb-daea-4769-b439-e9447f459225"
+    }
+  ]
+}

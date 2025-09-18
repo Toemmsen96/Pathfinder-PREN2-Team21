@@ -1,0 +1,185 @@
+{
+  "Lines": [
+    {
+      "xStart": 800,
+      "yStart": 900,
+      "xEnd": 1400,
+      "yEnd": 540,
+      "class_name": "Line",
+      "detection_id": "2401b2e4-5f12-4a31-854b-022e9c45032c"
+    },
+    {
+      "xStart": 800,
+      "yStart": 900,
+      "xEnd": 480,
+      "yEnd": 390,
+      "class_name": "Line",
+      "detection_id": "line-1-3"
+    },
+    {
+      "xStart": 800,
+      "yStart": 900,
+      "xEnd": 960,
+      "yEnd": 390,
+      "class_name": "Line",
+      "detection_id": "line-1-4"
+    },
+    {
+      "xStart": 1400,
+      "yStart": 540,
+      "xEnd": 960,
+      "yEnd": 390,
+      "class_name": "Line",
+      "detection_id": "line-2-4"
+    },
+    {
+      "xStart": 1400,
+      "yStart": 540,
+      "xEnd": 1280,
+      "yEnd": 160,
+      "class_name": "Line",
+      "detection_id": "line-2-7"
+    },
+    {
+      "xStart": 480,
+      "yStart": 390,
+      "xEnd": 960,
+      "yEnd": 390,
+      "class_name": "Line",
+      "detection_id": "line-3-4"
+    },
+    {
+      "xStart": 480,
+      "yStart": 390,
+      "xEnd": 480,
+      "yEnd": 160,
+      "class_name": "Line",
+      "detection_id": "line-3-6"
+    },
+    {
+      "xStart": 960,
+      "yStart": 390,
+      "xEnd": 840,
+      "yEnd": 200,
+      "class_name": "Line",
+      "detection_id": "line-4-5"
+    },
+    {
+      "xStart": 960,
+      "yStart": 390,
+      "xEnd": 1280,
+      "yEnd": 160,
+      "class_name": "Line",
+      "detection_id": "line-4-7"
+    },
+    {
+      "xStart": 840,
+      "yStart": 200,
+      "xEnd": 480,
+      "yEnd": 390,
+      "class_name": "Line",
+      "detection_id": "line-5-3"
+    },
+    {
+      "xStart": 840,
+      "yStart": 200,
+      "xEnd": 480,
+      "yEnd": 160,
+      "class_name": "Line",
+      "detection_id": "line-5-6"
+    },
+    {
+      "xStart": 840,
+      "yStart": 200,
+      "xEnd": 1280,
+      "yEnd": 160,
+      "class_name": "Line",
+      "detection_id": "line-5-7"
+    },
+    {
+      "xStart": 840,
+      "yStart": 200,
+      "xEnd": 920,
+      "yEnd": 90,
+      "class_name": "Line",
+      "detection_id": "line-5-8"
+    },
+    {
+      "xStart": 480,
+      "yStart": 160,
+      "xEnd": 920,
+      "yEnd": 90,
+      "class_name": "Line",
+      "detection_id": "line-6-8"
+    },
+    {
+      "xStart": 1280,
+      "yStart": 160,
+      "xEnd": 920,
+      "yEnd": 90,
+      "class_name": "Line",
+      "detection_id": "line-7-8"
+    }
+  ],
+
+  "Nodes": [
+      {
+      "x": 800,
+      "y": 900,
+      "class_name": "Node",
+      "detection_id": "c0f2b3b4-04f5-42bd-a77f-5ea4a3b136c8"
+    },
+    {
+      "x": 1400,
+      "y": 540,
+      "class_name": "Node",
+      "detection_id": "7430bba2-9c71-4b99-a18d-52f5531eb060"
+    },
+    {
+      "x": 480,
+      "y": 390,
+      "class_name": "Node",
+      "detection_id": "7530bba2-9c71-4b99-a18d-52f5531eb060"
+    },
+    {
+      "x": 960,
+      "y": 390,
+      "class_name": "Node",
+      "detection_id": "7330bba2-9c71-4b99-a18d-52f5531eb060"
+    },
+    {
+      "x": 840,
+      "y": 200,
+      "class_name": "Node",
+      "detection_id": "7630bba2-9c71-4b99-a18d-52f5531eb060"
+    },
+    {
+      "x": 480,
+      "y": 160,
+      "class_name": "Node",
+      "detection_id": "7730bba2-9c71-4b99-a18d-52f5531eb060"
+    },
+    {
+      "x": 1280,
+      "y": 160,
+      "class_name": "Node",
+      "detection_id": "7830bba2-9c71-4b99-a18d-52f5531eb060"
+    },
+    {
+      "x": 920,
+      "y": 90,
+      "class_name": "Node",
+      "detection_id": "7930bba2-9c71-4b99-a18d-52f5531eb060"
+    }
+  ],
+
+
+  "Pylons": [
+    {
+      "x": 841,
+      "y": 199,
+      "class_name": "Pylon",
+      "detection_id": "7430bba2-9c71-4b99-a18d-52f5531eb060"      
+    }
+  ]
+}

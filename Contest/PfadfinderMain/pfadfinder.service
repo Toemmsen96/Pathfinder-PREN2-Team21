@@ -1,0 +1,33 @@
+[Unit]
+Description=Pfadfinder Main Program
+After=network.target
+Wants=network.target
+
+[Service]
+Type=simple
+User=pren
+Group=pren
+WorkingDirectory=/home/pren/pfadfinder
+ExecStart=/home/pren/pfadfinder/PfadfinderMain
+Restart=no
+RestartSec=1
+StandardOutput=journal
+StandardError=journal
+Environment=DOTNET_ROOT=/home/pren/.dotnet
+Environment=PATH=/home/pren/.dotnet:/home/pren/.dotnet/tools:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+
+# Ensure only one instance runs
+PIDFile=/tmp/pfadfinder_main.pid
+
+# Give the process time to clean up
+TimeoutStopSec=10
+
+# Security settings
+NoNewPrivileges=true
+PrivateDevices=false
+ProtectSystem=strict
+ReadWritePaths=/tmp /home/pren/pfadfinder
+ProtectHome=true
+
+[Install]
+WantedBy=multi-user.target
