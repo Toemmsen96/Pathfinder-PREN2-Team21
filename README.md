@@ -5,7 +5,8 @@ Most of it was grouped into smaller libraries / subprograms.
 
 ## Software running during contest
 The software which was running during the contest uses some of the other libraries included here.
-The Source Code for the Program running on the Pi is inside the Contest folder
+
+The Source Code for the Program(s) running on the Pi is inside the Contest folder
 
 ## Yolo Models
 The different Yolo Detection models are also included, the training scripts etc. are not.
