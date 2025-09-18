@@ -1,5 +1,5 @@
 # Pathfinder-PREN2-Team21
-This Repository is the Software which ran on the Raspberry Pi 4B 4GB during PREN 2 2025 for Team 21 (contest winning Team).
+This Repository is the Software which ran on the Raspberry Pi 4B 4GB during HSLU's PREN 2 2025 by Team 21 (contest winning Team).
 The Software which ran on the microcontroller is not included here.
 Most of it was grouped into smaller libraries / subprograms.
 
